@@ -1,7 +1,7 @@
 ---
 ---
 
-# christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Christian Brodbeck Lab at McMaster University
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research investigates speech processing in the human brain, and methods to study this with M/EEG.
 
 {%
   include button.html
@@ -34,12 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Upcoming projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Open positions"
   flip=true
   style="bare"
   text=text
