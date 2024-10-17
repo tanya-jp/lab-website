@@ -1,7 +1,7 @@
 ---
 ---
 
-# The Christian Brodbeck Lab at McMaster University
+# Cognitive computational neuroscience of speech recognition
 
 
 
