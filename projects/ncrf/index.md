@@ -1,8 +1,8 @@
 ---
-title: Projects
-nav:
-  order: 2
-  tooltip: Software, datasets, and more
+title: NCRF
+#nav:
+#  order: 2
+#  tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}User-friendly open-source pipeline for anatomically precise analysis of single-trial M/EEG
@@ -15,6 +15,4 @@ The research fellows will work as a part of multidisciplinary team including PIs
 
 Formal announcement to follow. Feel free to reach out to us for further information (brodbecc@mcmaster.ca, proloy@stanford.edu, ppurdon@stanford.edu)
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+This project is funded by [NIH](https://reporter.nih.gov/search/MO5MEigAnEeHz2DkOCOs0g/project-details/10864540).
