@@ -468,8 +468,9 @@
   date: '2017-02-01'
   link: https://doi.org/gg6xnb
   orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811916307169-gr3.jpg
 - id: doi:10.1101/229153
   title: Neural Coding of Noisy and Reverberant Speech in Human Auditory Cortex
   authors:
@@ -507,8 +508,9 @@
   date: '2015-11-20'
   link: https://doi.org/g8k2sr
   orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/163896/fpsyg-06-01787-HTML/image_m/fpsyg-06-01787-g001.jpg
 - id: doi:10.1016/j.neuroimage.2013.10.027
   title: MNE software for processing MEG and EEG data
   authors:
@@ -524,8 +526,9 @@
   date: '2014-02-01'
   link: https://doi.org/f5qq9z
   orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mne.tools/stable/_images/mne_logo.svg
 - id: doi:10.3389/fnins.2013.00267
   title: MEG and EEG data analysis with MNE-Python
   authors:
@@ -534,8 +537,9 @@
   date: '2013-01-01'
   link: https://doi.org/gdvhvz
   orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mne.tools/stable/_images/mne_logo.svg
 - id: doi:10.1371/journal.pone.0022759
   title: Skin Conductance Response to the Pain of Others Predicts Later Costly Helping
   authors:
