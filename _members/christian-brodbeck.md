@@ -12,6 +12,7 @@ links:
   github: christianbrodbeck
   google-scholar: m2x515IAAAAJ
   cv: https://drive.google.com/file/d/1RQG5w4C2Nf9kQCQJMB5qNDg_0bKOqreD/view?usp=share_link
+  email: brodbecc@mcmaster.ca
 ---
 
 
