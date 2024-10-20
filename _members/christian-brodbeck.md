@@ -4,6 +4,7 @@ image: https://www.eng.mcmaster.ca//app/uploads/2023/12/Christian_Brodbeck_Heads
 role: pi
 affiliation: McMaster University
 aliases:
+  - Christian Brodbeck
   - C. Brodbeck
   - C Brodbeck
 links:

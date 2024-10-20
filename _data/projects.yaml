@@ -11,7 +11,7 @@
   subtitle:
   group: featured
   image: images/photo.jpg
-  link: projects/context-use-in-aging
+  link: projects/context_aging
   description: Investigate how the ability to use context for speech recognition changes with age, using EEG and fMRI.
   tags:
     - speech perception
