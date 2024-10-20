@@ -28,3 +28,15 @@
 
 - id: doi:10.1016/j.cub.2018.10.042
   description: We isolated brain responses related to the transformation from acoustic to linguistic representations of continuous speech by modeling word recognition with information theory. We then demonstrate that, in the presence of multiple talkers, only attended speech is processed lexically. This is evidence against the hypothesis that words in background speech are processed preconsciously.
+
+- id: doi:10.1016/j.neuroimage.2016.12.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811916307169-gr3.jpg
+
+- id: doi:10.3389/fpsyg.2015.01787
+  image: https://www.frontiersin.org/files/Articles/163896/fpsyg-06-01787-HTML/image_m/fpsyg-06-01787-g001.jpg
+
+- id: doi:10.1016/j.neuroimage.2013.10.027
+  image: https://mne.tools/stable/_images/mne_logo.svg
+
+- id: doi:10.3389/fnins.2013.00267
+  image: https://mne.tools/stable/_images/mne_logo.svg
