@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
   link: projects/ncrf
-  description: Develop an analysis pipeline for electrophysiological data (primarily MEG and EEG), to unveil how the human brain encodes complex and natural stimuli. Based on the [neuro-current response function](https://doi.org/10.1016/j.neuroimage.2020.116528) method.
+  description: Develop an analysis pipeline for electrophysiological data (primarily MEG and EEG), to unveil how the human brain encodes complex and natural stimuli.
   tags:
     - software
 
@@ -11,7 +11,8 @@
   subtitle:
   group: featured
   image: images/photo.jpg
-  description: We will investogate how our ability to use context for speech recognition changes with age, using EEG and fMRI.
+  link: projects/context-use-in-aging
+  description: Investigate how the ability to use context for speech recognition changes with age, using EEG and fMRI.
   tags:
     - speech perception
 
