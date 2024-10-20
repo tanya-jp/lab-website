@@ -28,6 +28,19 @@
   orcid: 0000-0001-8380-639X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1523/jneurosci.0666-23.2023
+  title: Neural Representations of Non-native Speech Reflect Proficiency and Interference
+    from Native Language Knowledge
+  authors:
+  - Christian Brodbeck
+  - Katerina Danae Kandylaki
+  - Odette Scharenborg
+  publisher: The Journal of Neuroscience
+  date: '2023-11-14'
+  link: https://doi.org/g8nmjn
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.85012
   title: Eelbrain, a Python toolkit for time-continuous analysis with temporal response
     functions
@@ -54,16 +67,16 @@
   - type: website
     text: Eelbrain Website
     link: http://eelbrain.readthedocs.io/
-- id: doi:10.1101/2023.04.15.537014
-  title: Neural representations of non-native speech reflect proficiency and interference
-    from native language knowledge
+- id: doi:10.1162/nol_a_00084
+  title: Auditory Word Comprehension Is Less Incremental in Isolated Words
   authors:
+  - Phoebe Gaston
   - Christian Brodbeck
-  - Katerina Danae Kandylaki
-  - Odette Scharenborg
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-04-15'
-  link: https://doi.org/g8nmbk
+  - Colin Phillips
+  - Ellen Lau
+  publisher: Neurobiology of Language
+  date: '2023-01-01'
+  link: https://doi.org/gszkdm
   orcid: 0000-0001-8380-639X
   plugin: orcid.py
   file: orcid.yaml
@@ -136,6 +149,20 @@
   - type: data
     text: Data
     link: https://doi.org/10.5061/dryad.nvx0k6dv0
+- id: doi:10.3389/fneur.2022.819603
+  title: Bilaterally Reduced Rolandic Beta Band Activity in Minor Stroke Patients
+  authors:
+  - Joshua P. Kulasingham
+  - Christian Brodbeck
+  - Sheena Khan
+  - Elisabeth B. Marsh
+  - Jonathan Z. Simon
+  publisher: Frontiers in Neurology
+  date: '2022-03-28'
+  link: https://doi.org/g8nmjp
+  orcid: 0000-0001-8380-639X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fnins.2022.828546
   title: Cortical tracking of voice pitch in the presence of multiple speakers depends
     on selective attention
@@ -160,82 +187,6 @@
   publisher: The Journal of Neuroscience
   date: '2021-11-03'
   link: https://doi.org/gnpgdr
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.12.03.471122
-  title: Cortical tracking of voice pitch in the presence of multiple speakers depends
-    on selective attention
-  authors:
-  - Christian Brodbeck
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-12-06'
-  link: https://doi.org/gpgm3s
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.10.15.464457
-  title: Bilaterally Reduced Rolandic Beta Band Activity in Minor Stroke Patients
-  authors:
-  - Joshua P. Kulasingham
-  - Christian Brodbeck
-  - Sheena Khan
-  - Elisabeth B. Marsh
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-10-16'
-  link: https://doi.org/g8nmbs
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.09.09.459631
-  title: Auditory Word Comprehension is Less Incremental in Isolated Words
-  authors:
-  - Phoebe Gaston
-  - Christian Brodbeck
-  - Colin Phillips
-  - Ellen Lau
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-09-10'
-  link: https://doi.org/g8nmbt
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.08.01.454687
-  title: 'Eelbrain: A Python toolkit for time-continuous analysis with temporal response
-    functions'
-  authors:
-  - Christian Brodbeck
-  - Proloy Das
-  - Marlies Gillis
-  - Joshua P. Kulasingham
-  - Shohini Bhattasali
-  - Phoebe Gaston
-  - Philip Resnik
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-08-03'
-  link: https://doi.org/gmfxfw
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/vea5y
-  title: Cortical Networks for Recognition of Speech with Simultaneous Talkers
-  authors:
-  - Christian Herrera Ortiz
-  - Nicole Whittle
-  - Marjorie R. Leek
-  - Christian Brodbeck
-  - Grace Lee
-  - Caleb Barcenas
-  - Samuel Barnes
-  - Barbara Holshouser
-  - Alex C. Yi
-  - Jonathan Henry Venezia
-  publisher: Center for Open Science
-  date: '2021-07-29'
-  link: https://doi.org/g552nk
   orcid: 0000-0001-8380-639X
   plugin: orcid.py
   file: orcid.yaml
@@ -342,36 +293,6 @@
   orcid: 0000-0001-8380-639X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2019.12.19.883314
-  title: High Gamma Cortical Processing of Continuous Speech in Younger and Older
-    Listeners
-  authors:
-  - Joshua P. Kulasingham
-  - Christian Brodbeck
-  - Alessandro Presacco
-  - Stefanie E. Kuchinsky
-  - Samira Anderson
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-12-20'
-  link: https://doi.org/gk26z2
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/866749
-  title: 'Neural speech restoration at the cocktail party: Auditory cortex recovers
-    masked speech of both attended and ignored speakers'
-  authors:
-  - Christian Brodbeck
-  - Alex Jiao
-  - L. Elliot Hong
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-12-06'
-  link: https://doi.org/gkttgn
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/hbm.24403
   title: "The temporal dynamics of structure and content in sentence comprehension:\
     \ Evidence from fMRI\u2010constrained MEG"
@@ -415,19 +336,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2018-04-03'
   link: https://doi.org/gk3cpz
-  orcid: 0000-0001-8380-639X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/326785
-  title: Transformation from auditory to linguistic representations across auditory
-    cortex is rapid and attention dependent for continuous speech
-  authors:
-  - Christian Brodbeck
-  - L. Elliot Hong
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-05-21'
-  link: https://doi.org/gf3q3p
   orcid: 0000-0001-8380-639X
   plugin: orcid.py
   file: orcid.yaml
