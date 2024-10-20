@@ -12,13 +12,13 @@ The goal of this project is developing and testing explicit models of context us
 We are looking for a **full-time lab manager** to 
 lead the implementation of the experiments and data collection.
 
-We are looking for **a post-doc and graduate students** with interested in all aspects of this research, including:
+We are looking for **a post-doc and graduate students** interested in all aspects of this research, including:
 implementation of computational models for context use, 
 language models and their relationship to human language processing, 
 auditory neuroscience,
 and neuroimaging (EEG, structural and functional MRI).
 
-The research fellows will work as a part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
+The researchers will become part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
 Team members include Ian Bruce (McMaster), Emily Myers and Thomas Hinchey (UConn) and Samira Anderson (U Maryland).
 
 Formal announcement to follow. Please reach out to brodbecc@mcmaster.ca for more information.

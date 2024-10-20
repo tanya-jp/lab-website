@@ -6,18 +6,21 @@
   description: Develop an analysis pipeline for electrophysiological data (primarily MEG and EEG), to unveil how the human brain encodes complex and natural stimuli.
   tags:
     - software
+    - open positions
 
 - title: Neural Mechanisms Underlying Linguistic Context Use for Speech Processing in Aging
   subtitle:
   group: featured
   image: images/photo.jpg
-  link: projects/context_aging
+  link: projects/context-use
   description: Investigate how the ability to use context for speech recognition changes with age, using EEG and fMRI.
   tags:
     - speech perception
+    - open positions
 
 - title: Eelbrain
   subtitle: Open-source Python toolkit for MEG and EEG data analysis.
+  group: featured
   image: images/eelbrain.png
   link: http://eelbrain.readthedocs.io/
   description: Tools developed by the lab for neural data analysis - check out the [website](http://eelbrain.readthedocs.io/) or the recent [eLife article](https://doi.org/10.7554/eLife.85012) .
