@@ -26,7 +26,7 @@ Our research investigates speech processing in the human brain, and methods to s
 
 {%
   include feature.html
-  image="images/NCRF-Paradigm.png"
+  image="images/NCRF-Paradigm.jpg"
   link="research"
   title="Our Research"
   text=text
