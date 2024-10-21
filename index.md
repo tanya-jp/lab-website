@@ -26,7 +26,7 @@ Our research investigates speech processing in the human brain, and methods to s
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/NCRF-Paradigm.png"
   link="research"
   title="Our Research"
   text=text
@@ -59,7 +59,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current lab members [under construction].
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://future.mcmaster.ca/wp-content/uploads/2020/07/Campus-with-Cootes_jpg.jpg"
   link="team"
   title="Our Team"
   text=text
