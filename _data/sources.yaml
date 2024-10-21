@@ -23,6 +23,9 @@
 - id: doi:10.1101/2024.02.20.580731
   image: https://www.biorxiv.org/content/biorxiv/early/2024/02/22/2024.02.20.580731/F1.large.jpg
 
+- id: doi:10.1162/nol_a_00084
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/nol/4/1/10.1162_nol_a_00084/1/m_nol_a_00084_f003.png?Expires=1732016114&Signature=yRD~bdySfBEY-c8GhCSLNio3TqeV6GI8Zox3Qk~sVUs2kJ~nz1~WtzeayRDxzR5YdEEGUlecnMiFPglRxtZ1G-GqHvRbHDW7m929w280I-j~OksoRo-hJDQgrwhIJE6sN-zHy~AMTAyJk4k-OAWBOc7-5NAs9eeCV6NbSC7iWtCeUlQHGZlarlDL09gI-409HAcj53eaMG2tmxEs~SY03W4ezft8coMCm81Kz7xyl8B4TyOh9G9ah1Ia6wbNDgYAYh-YcAtm9yMrXBbcLzPqPdjPhIbQ4UKutUGYalrt7cODlkiWVaQnNdLWDmUHyWjNoHKz-7IFnWCpi0gQciR8sw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
 - id: doi:10.1371/journal.pbio.3000883
   image: https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.3000883.g005
 
