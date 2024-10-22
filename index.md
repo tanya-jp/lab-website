@@ -49,7 +49,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/gate.jpg"
   link="projects"
   title="Open positions"
   flip=true
