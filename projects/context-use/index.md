@@ -8,6 +8,7 @@ Speech signals are often acoustically ambiguous between multiple interpretations
 This is exacerbated by the presence of background noise, and hearing disorders.
 A common strategy that listeners use in such situations is to use the linguistic context to fill in gaps in comprehension.
 The goal of this project is developing and testing explicit models of context use, how context use changes with age, and how it interacts with hearing loss.
+To test these models we will collect EEG and fMRI data, together with a range of cognitive and hearing related measures.
 
 We are looking for a **full-time lab manager** to 
 lead the implementation of the experiments and data collection.
@@ -18,7 +19,7 @@ language models and their relationship to human language processing,
 auditory neuroscience,
 and neuroimaging (EEG, structural and functional MRI).
 
-The researchers will become part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
+The researchers will be part of multidisciplinary team including experts in Neuroscience, Hearing and Speech, Hearing Technology, and Aging. 
 Team members include Ian Bruce (McMaster), Emily Myers and Thomas Hinchey (UConn) and Samira Anderson (U Maryland).
 
 Formal announcement to follow. Please reach out to brodbecc@mcmaster.ca for more information.
