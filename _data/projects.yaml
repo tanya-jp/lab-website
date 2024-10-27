@@ -3,7 +3,7 @@
   group: featured
   image: images/NCRF-Paradigm.jpg
   link: projects/ncrf
-  description: Develop an analysis pipeline for electrophysiological data (primarily MEG and EEG), to unveil how the human brain encodes complex and natural stimuli.
+  description: Develop a tool to facilitate studying how the human brain encodes complex and natural stimuli.
   tags:
     - software
     - open positions
@@ -13,7 +13,7 @@
   group: featured
   image: images/context.jpg
   link: projects/context-use
-  description: Investigate how the ability to use context for speech recognition changes with age, using EEG and fMRI.
+  description: Investigate how use of context changes with age and hearing ability, using EEG and fMRI.
   tags:
     - speech perception
     - open positions
