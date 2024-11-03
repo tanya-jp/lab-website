@@ -3,6 +3,13 @@
 
 # Cognitive computational neuroscience of speech recognition
 
+We study the neural basis of language and speech.
+
+When humans listen to speech, 
+the acoustic signal that enters the ears is a complex pattern of air pressure fluctuations.
+Yet, listeners intuitively and almost instantaneously experience meaning in these sounds. 
+Our research focuses on the transformations that happen in the brain to enable this.
+We also develop novel methods that allow us to study this, primarily with M/EEG.
 
 
 {% include section.html %}
@@ -11,7 +18,7 @@
 
 {% capture text %}
 
-Our research investigates speech processing in the human brain, and methods to study this with M/EEG.
+Browse published papers and preprints.
 
 {%
   include button.html
@@ -39,7 +46,7 @@ We are looking for post-docs, graduate students and a full time research assista
 {%
   include button.html
   link="projects"
-  text="Upcoming projects"
+  text="Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +58,7 @@ We are looking for post-docs, graduate students and a full time research assista
   include feature.html
   image="images/gate.jpg"
   link="projects"
-  title="Open positions"
+  title="Projects and Open Positions"
   flip=true
   style="bare"
   text=text
@@ -59,7 +66,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {% capture text %}
 
-Current lab members [under construction].
+Current lab members (still under construction).
 
 {%
   include button.html
