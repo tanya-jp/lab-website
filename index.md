@@ -23,7 +23,7 @@ Browse published papers and preprints.
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -71,7 +71,7 @@ Current lab members (still under construction).
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
