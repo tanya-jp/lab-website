@@ -33,7 +33,7 @@ Browse published papers and preprints.
 
 {%
   include feature.html
-  image="images/NCRF-Paradigm.jpg"
+  image="images/Publications.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -56,7 +56,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {%
   include feature.html
-  image="images/gate.jpg"
+  image="images/Projects.jpg"
   link="projects"
   title="Projects and Open Positions"
   flip=true
@@ -81,7 +81,7 @@ Current lab members (still under construction).
 
 {%
   include feature.html
-  image="https://future.mcmaster.ca/wp-content/uploads/2020/07/Campus-with-Cootes_jpg.jpg"
+  image="images/Team.jpg"
   link="team"
   title="Our Team"
   text=text
