@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects. 
+We are looking for post-docs, graduate students (fully funded) and a full time research assistant to work on multiple projects. 
 For more details, check out the featured projects with open positions.
 
 {% include tags.html tags="open positions, software, speech perception" %}
