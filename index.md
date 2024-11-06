@@ -3,13 +3,9 @@
 
 # Cognitive computational neuroscience of speech recognition
 
-We study the neural basis of language and speech.
-
-When humans listen to speech, 
-the acoustic signal that enters the ears is a complex pattern of air pressure fluctuations.
-Yet, listeners intuitively and almost instantaneously experience meaning in these sounds. 
-Our research focuses on the transformations that happen in the brain to enable this.
-We also develop novel methods that allow us to study this, primarily with M/EEG.
+We study the neural basis of language and speech, 
+using computational models and brain data.
+We also develop methods and tools for neural data analysis.
 
 
 {% include section.html %}

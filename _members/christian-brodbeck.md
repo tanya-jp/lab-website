@@ -15,6 +15,11 @@ links:
   email: brodbecc@mcmaster.ca
 ---
 
+When humans listen to speech, 
+the acoustic signal that enters the ears is a complex pattern of air pressure fluctuations.
+Yet, listeners intuitively and almost instantaneously experience meaning in these sounds. 
+My research focuses on the transformations that happen in the brain to enable this.
+
 The goal of my research is to understand and measure how the brain processes speech.
 I am particularly interested in how people comprehend speech in realistic settings, 
 including continuous, meaningful speech, and speech in noisy backgrounds.
