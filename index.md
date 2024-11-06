@@ -1,22 +1,21 @@
 ---
 ---
 
-# christianbrodbeckDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Cognitive computational neuroscience of speech recognition
 
+We study the neural basis of language and speech, 
+using computational models and brain data.
+We also develop methods and tools for neural data analysis.
 
-
-{% include section.html %}
-
-## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Browse published papers and preprints.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Publications.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,12 +33,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +48,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Projects.jpg"
   link="projects"
-  title="Our Projects"
+  title="Projects and Open Positions"
   flip=true
   style="bare"
   text=text
@@ -59,12 +58,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current lab members (still under construction).
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Team.jpg"
   link="team"
   title="Our Team"
   text=text
