@@ -8,10 +8,6 @@ using computational models and brain data.
 We also develop methods and tools for neural data analysis.
 
 
-{% include section.html %}
-
-## Highlights
-
 {% capture text %}
 
 Browse published papers and preprints.
