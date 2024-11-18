@@ -15,6 +15,16 @@ links:
   email: brodbecc@mcmaster.ca
 ---
 
+# Affiliations
+
+ - Home department: [Department of Computing and Software](http://cas.mcmaster.ca)
+ - Member: Centre for Advanced Research in Experimental and Applied Linguistics ([ARiEAL](https://arieal.humanities.mcmaster.ca))
+ - Associate member: [Neuroscience Graduate Program](https://neuroscience.mcmaster.ca)
+ - Associate member: [Department of Linguistics and Languages](https://linguistics.humanities.mcmaster.ca)
+ - Associate member: McMaster Institute for Research on Aging ([MIRA](https://mira.mcmaster.ca))
+
+# Research interests
+
 When humans listen to speech, 
 the acoustic signal that enters the ears is a complex pattern of air pressure fluctuations.
 Yet, listeners intuitively and almost instantaneously experience meaning in these sounds. 
@@ -37,7 +47,7 @@ This work lays the foundations for better understanding how speech perception
 is affected in different settings and populations.
 For example, how does speech processing change with age?
 How is it affected by a hearing impairment?
-And how can this guide us to better address challenges faced by these populations.
+And how can this guide us to better address challenges faced by these populations?
 
 I use Python to develop tools to make this research possible, 
 and many of those tools are available in the open source libraries
