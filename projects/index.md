@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We are looking for post-docs, graduate students (fully funded) and a full time research assistant to work on multiple projects.
+We are looking for a post-doc, graduate students (fully funded) and a full time research assistant to work on multiple projects.
 For more details, check out the featured projects with open positions.
 
 I can currently supervise graduate students in:
@@ -23,10 +23,10 @@ I can currently supervise graduate students in:
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html data="projects" component="card" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html data="projects" component="card" filter="group != 'featured'" style="small" %}
